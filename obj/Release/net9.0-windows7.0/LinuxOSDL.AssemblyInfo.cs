@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinuxOSDL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+520fe8891c4b23256cb0f01637c6ab12541ea340")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinuxOSDL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinuxOSDL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

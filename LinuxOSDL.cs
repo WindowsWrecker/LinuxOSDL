@@ -26,8 +26,10 @@ namespace LinuxOSDL
         private void button1_Click(object sender, EventArgs e)
         {
             Dictionary<string, string> debianVersions = new Dictionary<string, string>();
+            debianVersions.Add("Debian 13.6", "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.6.0-amd64-netinst.iso");
             debianVersions.Add("Debian 11.11 (Bullseye)", "https://cdimage.debian.org/cdimage/archive/11.11.0/amd64/iso-cd/debian-11.11.0-amd64-netinst.iso");
             debianVersions.Add("Debian Testing", "https://cdimage.debian.org/cdimage/weekly-builds/amd64/iso-cd/debian-testing-amd64-netinst.iso");
+            
 
             ShowVersionDialog("Debian", debianVersions);
         }

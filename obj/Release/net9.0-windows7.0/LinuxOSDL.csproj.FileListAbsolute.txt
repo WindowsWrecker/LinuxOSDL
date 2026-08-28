@@ -14,3 +14,4 @@ C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Release\net9.0-windows7.0\refint
 C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Release\net9.0-windows7.0\LinuxOSDL.pdb
 C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Release\net9.0-windows7.0\LinuxOSDL.genruntimeconfig.cache
 C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Release\net9.0-windows7.0\ref\LinuxOSDL.dll
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Release\net9.0-windows7.0\LinuxOSDL.sourcelink.json
