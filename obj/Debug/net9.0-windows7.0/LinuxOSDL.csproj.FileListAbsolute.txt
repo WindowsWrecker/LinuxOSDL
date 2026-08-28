@@ -1,0 +1,16 @@
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\bin\Debug\net9.0-windows7.0\LinuxOSDL.exe
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\bin\Debug\net9.0-windows7.0\LinuxOSDL.deps.json
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\bin\Debug\net9.0-windows7.0\LinuxOSDL.runtimeconfig.json
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\bin\Debug\net9.0-windows7.0\LinuxOSDL.dll
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\bin\Debug\net9.0-windows7.0\LinuxOSDL.pdb
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Debug\net9.0-windows7.0\LinuxOSDL.LinuxOSDL.resources
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Debug\net9.0-windows7.0\LinuxOSDL.csproj.GenerateResource.cache
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Debug\net9.0-windows7.0\LinuxOSDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Debug\net9.0-windows7.0\LinuxOSDL.AssemblyInfoInputs.cache
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Debug\net9.0-windows7.0\LinuxOSDL.AssemblyInfo.cs
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Debug\net9.0-windows7.0\LinuxOSDL.csproj.CoreCompileInputs.cache
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Debug\net9.0-windows7.0\LinuxOSDL.dll
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Debug\net9.0-windows7.0\refint\LinuxOSDL.dll
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Debug\net9.0-windows7.0\LinuxOSDL.pdb
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Debug\net9.0-windows7.0\LinuxOSDL.genruntimeconfig.cache
+C:\Users\gentoo\Desktop\LinuxOSDL\LinuxOSDL\obj\Debug\net9.0-windows7.0\ref\LinuxOSDL.dll
